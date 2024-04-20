@@ -283,6 +283,7 @@ const PredaterEp2 = () => {
           </div>
         </div>
       </div>
+      
        {/* 9 */}
     <div className='box-1 relative'>
         <img className='box-items-1 max-w-full ' src="predater-img/ep2/full-9.png" alt="" />
