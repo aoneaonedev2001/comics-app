@@ -1,5 +1,5 @@
-import {useState,useRef,useEffect}from 'react';
-import { motion,useInView ,useScroll,useTransform,useAnimation} from "framer-motion"
+import {useState} from 'react'
+import { motion} from "framer-motion"
 
 const Test = () => {
   

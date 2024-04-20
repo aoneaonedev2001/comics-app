@@ -1,5 +1,5 @@
 import { useState} from 'react';
-import { motion,useAnimate } from "framer-motion";
+import { motion } from "framer-motion";
 
 const Alret18 = () => {
   const [showPlay1, setShowPlay1] = useState(false);
