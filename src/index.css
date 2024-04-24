@@ -2,3 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+.dark{
+  background-image: linear-gradient( #1A1B1A, #7C817F);
+}
+
+html{
+    scroll-snap-type:y mandatory;
+    scroll-behavior: smooth;
+}
+.section{
+    scroll-snap-align: center;
+}

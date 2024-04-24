@@ -2,8 +2,20 @@ import React from 'react'
 import { motion} from "framer-motion"
 
 const PredaterEp2 = () => {
+  // const textEn =["Y'om boys'll see!",
+  // "The Klan smokes today. It's a busy day, in this heat, too.",
+  // "It's Big John, I tell yom-- Let's hightail it outta here!",
+  // "Hush now. We're getting close.", "The gollywomp.",
+  // "Let's git outta here before he sees us.",
+  // "Do you know how much people would pay t' see that thing?",
+  // "Do what you want, I'ma git me a gollywomp.",
+  // "Shit yourself, I'm leavin'.","You got him!", "MR. LEBLANC, WAIT FOR ME!","YOU GOTTA HELP ME!",
+  // "I can lose him! I know this swamp like the back of my hand.","You'll slow me down, old man!",
+  // "Big John! He's too small! You need somebody big, like me. I got a lot of skin.","AR HHGG",
+  // "I got somethin' fer you, Mister Gollywomp.",]
+  
   return (
-    <div  className='max-w-[1200px]  mx-auto border-[3px] mt-[30px] '>
+    <div  className='max-w-[980px]  mx-auto border-[3px] mt-[30px] '>
   {/*1 Page */}
       <div className='relative'>
     {/*2 Backgroud-Img */}
@@ -13,7 +25,7 @@ const PredaterEp2 = () => {
           <div className='max-h-[100%] h-[1800px]'>
        {/*4 Box-items-1 */}
              
-            <div className='flex flex-row justify-between items-center relative top-[3%]  mx-[2%]  h-[50%] '>
+            <div className='flex flex-row justify-between items-center relative top-[3%]  mx-[2%]  h-[49%] '>
                 <motion.div className='w-[30%]  h-full border-[1px] border-black'
 
                         initial={{opacity:0,x:-75}}          
@@ -55,7 +67,7 @@ const PredaterEp2 = () => {
         <img className='box-items-1 max-w-full ' src="predater-img/ep2/full-2.png" alt="" />
         <div className='absolute inset-0 '>
           <div className='max-h-[100%] h-[1800px]'>
-          <div className='flex flex-row justify-end items-center relative top-[61%]  mx-[8%]  h-[38%] '>
+          <div className='flex flex-row justify-end items-center relative top-[59%]  mx-[8%]  h-[37%] '>
                 <motion.div className='w-[50%]  h-full border-[1px] border-black'
 
                         initial={{opacity:0,x:-75}}          
@@ -76,7 +88,7 @@ const PredaterEp2 = () => {
         <img className='box-items-1 max-w-full ' src="predater-img/ep2/full-3.png" alt="" />
         <div className='absolute inset-0 '>
           <div className='max-h-[100%] h-[1800px]'>
-          <div className='relative top-[62%]  mx-[1%]  h-[40%] '>
+          <div className='relative top-[62%]  mx-[1%]  h-[36%] '>
                 <motion.div className='w-[100%]  h-full border-[1px] border-black'
 
                         initial={{opacity:0,x:75}}          
