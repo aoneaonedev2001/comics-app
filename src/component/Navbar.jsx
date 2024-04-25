@@ -16,21 +16,21 @@ const Navbar = () => {
 
   return (
     <div className="bg-[#ffff] dark:bg-[#1A1B1A] h-[61px] border-b-1 border sticky top-0 z-30 ">
-      <div className="max-w-[1200px] mx-auto flex justify-between items-center h-full ">
+      <div className="w-[1200px] sm:w-[400px] lg:w-[1000px]  md:w-[700px] mx-auto flex justify-between items-center h-full ">
         {/* <Link to="/" className="">
          <img className="cover " src="/home/main-logo.png" alt="" />
         </Link> */}
         <a href="/">
-          <img className="cover " src="/home/main-logo.png" alt="" />
+          <img className="cover sm:w-[144px] " src="/home/main-logo.png" alt="" />
         </a>
 
         {currentTheme === "darkMod" ? (
           <div onClick={toggleThemeLight} className="cursor-pointer">
-            <img className="cover" src="/home/light-mod-logo.png" alt="" />
+            <img className="cover sm:w-[144px] " src="/home/light-mod-logo.png" alt="" />
           </div>
         ) : (
           <div onClick={toggleThemeDark} className="cursor-pointer">
-            <img className="cover" src="/home/dark-mod-logo.png" alt="" />
+            <img className="cover sm:w-[144px] " src="/home/dark-mod-logo.png" alt="" />
           </div>
         )}
       </div>
