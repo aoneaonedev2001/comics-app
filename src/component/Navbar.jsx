@@ -15,7 +15,7 @@ const Navbar = () => {
   const currentTheme = localStorage.getItem("Theme");
 
   return (
-    <div className="bg-[#ffff] dark:bg-[#1A1B1A] h-[61px] border-b-1 border sticky top-0 z-30 ">
+    <div className="bg-[#ffff] dark:bg-[#1A1B1A] h-[61px] border-b-[1px]  sticky top-0 z-30 ">
       <div className="w-[1200px] sm:w-[400px] lg:w-[1000px]  md:w-[700px] mx-auto flex justify-between items-center h-full ">
         {/* <Link to="/" className="">
          <img className="cover " src="/home/main-logo.png" alt="" />

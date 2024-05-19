@@ -7,7 +7,7 @@ const ThemeProvider = ({children}) => {
     
 
   return (
-    <div className={Theme === "darkMod" ? "dark" :""}>{children}</div>
+    <div className={`pb-[10px] ${Theme === "darkMod" ? "dark" :""} `}>{children}</div>
   )
 }
 
