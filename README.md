@@ -33,8 +33,12 @@ Main Page:
 Darkmod:
 ![enter image description here](https://github.com/aoneaonedev2001/comics-app/blob/master/public/Png%20Demo/home.PNG?raw=true)
 
+
+
 Demo Single Page:
 ![enter image description here](https://github.com/aoneaonedev2001/comics-app/blob/master/public/Png%20Demo/content2.PNG?raw=true)
+
+
 
 Demo Single Page:
 ![enter image description here](https://github.com/aoneaonedev2001/comics-app/blob/master/public/Png%20Demo/content1.PNG?raw=true)
