@@ -10,7 +10,7 @@ This is a cryptocurrency application that provides users with information and th
 ## Teachnologies and Tools
 
 - React
-- axios
+- frammer motion
 - react-router-dom
 
 
@@ -28,9 +28,11 @@ npm start
 
 ## Screenshots
 Main Page:
-![enter image description here](https://github.com/AoneDev2001/Crypto-Fetch-API/blob/master/public/Png%20Demo/Main%20Page.png?raw=true)
+![enter image description here](https://github.com/aoneaonedev2001/comics-app/blob/master/public/Png%20Demo/home1.PNG?raw=true)
 
-Single Page:
-![enter image description here](https://github.com/AoneDev2001/Crypto-Fetch-API/blob/master/public/Png%20Demo/Single%20Page.png?raw=true)
-Single Page:
-![enter image description here](https://github.com/AoneDev2001/Crypto-Fetch-API/blob/master/public/Png%20Demo/Single%20Page%202.png?raw=true)
+Darkmod:
+![enter image description here](https://github.com/aoneaonedev2001/comics-app/blob/master/public/Png%20Demo/home.PNG?raw=true)
+Demo Single Page:
+![enter image description here](https://github.com/aoneaonedev2001/comics-app/blob/master/public/Png%20Demo/content2.PNG?raw=true)
+Demo Single Page:
+![enter image description here](https://github.com/aoneaonedev2001/comics-app/blob/master/public/Png%20Demo/content1.PNG?raw=true)
