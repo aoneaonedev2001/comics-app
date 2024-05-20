@@ -1,5 +1,5 @@
 #  Comics Book Animation 
-This is a cryptocurrency application that provides users with information and the current price of various cryptocurrencies.
+
 
 
 - [Teachnologies and Tools](#teachnologies-and-tools)
